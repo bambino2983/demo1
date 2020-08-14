@@ -1,0 +1,18 @@
+.home {
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home__image {
+    max-height: 400px;
+    max-width: 1550px;
+    object-fit: contain;
+}
+
+.home__row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 5px;
+    margin-right: 5px;
+}
